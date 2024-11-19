@@ -1,4 +1,4 @@
-# Nmae: Iniya.E
+# Name: Iniya.E
 # Reg No: 24900540
 # Experiment2 Control-of-Relay-Using-IoT-controller
 
